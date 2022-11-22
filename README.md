@@ -5,9 +5,9 @@ App insegura basada en estandares OWASP
 
 ### Requerimientos previos
 
-- Crear nuevo repositorio
+- Crear nuevo directorio
 - Activar venv
-- Descargar archivo Wheel
+- Clonar repositorio
 
 ### Instalacion
 
